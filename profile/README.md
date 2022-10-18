@@ -17,6 +17,9 @@ https://docs.scanbot.io
 ### Web SDK
 - [Web SDK](https://github.com/doo/scanbot-sdk-example-web)
 
+### Windows SDK
+- [UWP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-windows)
+
 ### Mobile Cross-platform Frameworks
 - [Cordova](https://github.com/doo/scanbot-barcode-scanner-sdk-example-cordova-ionic)
 - [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
