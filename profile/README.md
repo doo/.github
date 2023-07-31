@@ -29,6 +29,7 @@ https://docs.scanbot.io
 
 ### Mobile Cross-platform Frameworks
 - [Cordova](https://github.com/doo/scanbot-barcode-scanner-sdk-example-cordova-ionic)
+- [MAUI](https://github.com/doo/scanbot-barcode-sdk-maui-example)
 - [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
 - [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native) / [Getting started](https://scanbot.io/blog/react-native-scanner-tutorial/)
 - [Flutter](https://github.com/doo/scanbot-barcode-scanner-sdk-example-flutter)
@@ -46,6 +47,7 @@ https://docs.scanbot.io
 ### Mobile Cross-platform Frameworks
 - [Cordova](https://github.com/doo/scanbot-sdk-example-ionic) / [Getting started](https://scanbot.io/blog/cordova-tutorial-how-to-integrate-our-scanning-functionalities/)
 - [Capacitor](https://github.com/doo/scanbot-sdk-example-capacitor-ionic) / [Getting started](https://scanbot.io/blog/ionic-capacitor-scanner-tutorial/)
+- [MAUI](https://github.com/doo/scanbot-sdk-maui-example)
 - [Xamarin](https://github.com/doo/scanbot-sdk-example-xamarin)
 - [Xamarin.Forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms) / [Getting started](https://scanbot.io/blog/xamarin-forms-tutorial-sdk/)
 - [React Native](https://github.com/doo/scanbot-sdk-example-react-native) / [Getting started](https://scanbot.io/blog/react-native-app-tutorial-how-to-integrate-our-scanning-functionalities/)
