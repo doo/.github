@@ -46,7 +46,6 @@ https://docs.scanbot.io
 
 ### Mobile Cross-platform Frameworks
 - [Cordova](https://github.com/doo/scanbot-sdk-example-ionic) / [Getting started](https://scanbot.io/blog/cordova-tutorial-how-to-integrate-our-scanning-functionalities/)
-- [Capacitor](https://github.com/doo/scanbot-sdk-capacitor-example)
 - [Capacitor / Ionic](https://github.com/doo/scanbot-sdk-example-capacitor-ionic) / [Getting started](https://scanbot.io/blog/ionic-capacitor-scanner-tutorial/)
 - [MAUI](https://github.com/doo/scanbot-sdk-maui-example)
 - [Xamarin](https://github.com/doo/scanbot-sdk-example-xamarin)
