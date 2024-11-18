@@ -28,7 +28,7 @@ https://docs.scanbot.io
 - [UWP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-windows)
 
 ### Mobile Cross-platform Frameworks
-- [Compose Multiplatform/KMP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-kmp)
+- [Compose Multiplatform / KMP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-kmp)
 - [Capacitor](https://github.com/doo/scanbot-barcode-scanner-sdk-example-capacitor-ionic)
 - [Cordova](https://github.com/doo/scanbot-barcode-scanner-sdk-example-cordova-ionic)
 - [MAUI](https://github.com/doo/scanbot-barcode-sdk-maui-example)
