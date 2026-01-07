@@ -24,6 +24,9 @@ https://docs.scanbot.io
 ### Web SDK
 - [Web SDK](https://github.com/doo/scanbot-sdk-example-web)
 
+### Linux SDK
+- [Linux SDK](https://github.com/doo/scanbot-sdk-example-linux)
+ 
 ### Windows SDK
 - [UWP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-windows)
 
@@ -45,6 +48,9 @@ https://docs.scanbot.io
 
 ### Web SDK
 - [Web SDK](https://github.com/doo/scanbot-sdk-example-web)
+
+### Linux SDK
+- [Linux SDK](https://github.com/doo/scanbot-sdk-example-linux)
 
 ### Mobile Cross-platform Frameworks
 - [Cordova](https://github.com/doo/scanbot-sdk-example-ionic) / [Getting started](https://scanbot.io/blog/cordova-tutorial-how-to-integrate-our-scanning-functionalities/)
