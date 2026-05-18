@@ -31,9 +31,9 @@ https://docs.scanbot.io
 - [UWP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-windows)
 
 ### Mobile Cross-platform Frameworks
-- [Compose Multiplatform / KMP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-kmp)
 - [Capacitor](https://github.com/doo/scanbot-barcode-scanner-sdk-example-capacitor-ionic)
 - [Cordova](https://github.com/doo/scanbot-barcode-scanner-sdk-example-cordova-ionic)
+- [Kotlin Multiplatform](https://github.com/doo/scanbot-barcode-scanner-sdk-example-kmp)
 - [MAUI](https://github.com/doo/scanbot-barcode-sdk-maui-example)
 - [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
 - [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native) / [Getting started](https://scanbot.io/blog/react-native-scanner-tutorial/)
@@ -57,6 +57,7 @@ https://docs.scanbot.io
 - [Capacitor / Ionic / Angular](https://github.com/doo/scanbot-sdk-example-capacitor-ionic) / [Getting started](https://scanbot.io/blog/ionic-capacitor-scanner-tutorial/)
 - [Capacitor / Ionic / React](https://github.com/doo/scanbot-sdk-example-ionic-react) / [Getting started](https://scanbot.io/blog/ionic-capacitor-scanner-tutorial/)
 - [Capacitor / Ionic / Vue.js](https://github.com/doo/scanbot-sdk-example-ionic-vuejs)
+- [Kotlin Multiplatform](https://github.com/doo/scanbot-sdk-example-kmp)
 - [MAUI](https://github.com/doo/scanbot-sdk-maui-example)
 - [Xamarin](https://github.com/doo/scanbot-sdk-example-xamarin)
 - [Xamarin.Forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms) / [Getting started](https://scanbot.io/blog/xamarin-forms-tutorial-sdk/)
