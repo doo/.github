@@ -2,18 +2,9 @@
 Add reliable barcode and data capture functionalities to your mobile apps and websites. 
 For more information please check out https://scanbot.io.
 
-
-## Free Developer Support
-
-We provide free "no-strings-attached" developer support for the implementation & testing of the Scanbot SDK.
-If you encounter technical issues with integrating the Scanbot SDK or need advice on choosing the appropriate
-framework or features, please visit our [Support Page](https://docs.scanbot.io/support/).
-
-
 ## Examples Overview
 The Scanbot SDK documentation, developer guides, API references, and code samples can be found here: 
 https://docs.scanbot.io
-
 
 ## Barcode only SDK:
 
@@ -38,7 +29,6 @@ https://docs.scanbot.io
 - [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
 - [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native) / [Getting started](https://scanbot.io/blog/react-native-scanner-tutorial/)
 - [Flutter](https://github.com/doo/scanbot-barcode-scanner-sdk-example-flutter)
-
 
 ## All-in-one Barcode and Document Scanner SDK:
 
